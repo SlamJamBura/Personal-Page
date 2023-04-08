@@ -1,0 +1,10 @@
+*{
+ background-color: rgb(91, 209, 203);
+}
+.personalinfo{
+ position: absolute;
+ left:410px;
+ top: 220px;
+ font-size: 40px;
+ font-family: fantasy;
+}
